@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a0da9f-d29d-4955-8585-7b853609143c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/KunuTechBackend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/haversine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/bin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/challenges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/collectors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/devices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/gamification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/marketplace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/notification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/optimization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/qr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/collector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/notification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +87,7 @@
       <workItem from="1741908005282" duration="896000" />
       <workItem from="1741940628778" duration="5583000" />
       <workItem from="1741954886333" duration="5300000" />
-      <workItem from="1741991037507" duration="1164000" />
+      <workItem from="1741991037507" duration="2623000" />
     </task>
     <servers />
   </component>
